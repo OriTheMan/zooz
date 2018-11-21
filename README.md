@@ -4,4 +4,4 @@
 #
 You can find PAI documentation in http://localhost:1337/api.html
 #
-run "docker-compose up --build"
+Clone the repository run "docker-compose up --build"
